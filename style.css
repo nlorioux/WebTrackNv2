@@ -1,0 +1,47 @@
+h1{
+	padding-left: 200px;
+}
+
+#text{
+	margin-left: 100px;
+}
+
+.success{
+	background-color:#fafad2;
+}
+
+.flex-container{
+	display:flex;
+	max-width: 340px;
+	border-width: 1px;
+	background-color:#fde8db;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin-left: 100px;
+}
+
+.box{
+	border-width: 1px;
+	border-color: white;
+	background-color:#de4747;
+	height: 100px;
+	min-width: 100px;
+	margin-top: 3px;
+	margin-left: 6px;
+	margin-right: 6px;
+	margin-bottom: 3px;
+	text-align: center;
+	color: white;
+	font-size: 500%;
+}
+
+.vide{
+	background-color:#de4747;
+	visibility: hidden;
+
+}
+
+#restart{
+	margin-left: 100px;
+}
+
